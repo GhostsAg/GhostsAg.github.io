@@ -14,12 +14,12 @@ function NavTabs() {
             </li>
             <li className = "nav-item col s4">
                 <Link to = "/portfolio" className = { location.pathname === "/portfolio" ? "nav-link active" : "nav-link" } >
-                    Portfolio
+                    My Apps
                 </Link>
             </li>
             <li className = "nav-item col s4">
                 <Link to = "/contact" className = { location.pathname === "/portfolio" ? "nav-link active" : "nav-link" } >
-                    Leave a Message
+                    Message
                 </Link>
             </li>
         </ul>

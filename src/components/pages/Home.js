@@ -8,7 +8,7 @@ function Home() {
     return (
         <Wrapper>
             <Header />
-            <UserCard img = {"../public/images/Headshot002.jpeg"}
+            <UserCard img = {process.env.PUBLIC_URL + "/images/Profile-pic.jpeg"}
                 name = {"Andres Agustin Ledesma"}
                 jobTitle = {"Full-Stack Web Developer"}
                 github = {"https://github.com/GhostsAg"} 
