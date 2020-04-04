@@ -5,7 +5,7 @@ import "./style.css";
 function Portfolio() {
     return (
         <div className = "row">
-            <div className = "col s6">
+            <div className = "col s6 m4 l4">
                 <AppCard img={process.env.PUBLIC_URL + "/images/Employee-Database.png"} 
                     appName="Employee Databse"
                     link="https://github.com/GhostsAg/EmployeeTracker"
@@ -13,7 +13,7 @@ function Portfolio() {
                     repo="https://github.com/GhostsAg/EmployeeTracker"
                 />
             </div>
-            <div className = "col s6">
+            <div className = "col s6 m4 l4">
                 <AppCard img={process.env.PUBLIC_URL + "/images/Contract-Bay.png"}
                     appName="Contract Bay"
                     link="https://polar-island-40995.herokuapp.com/"
@@ -21,7 +21,7 @@ function Portfolio() {
                     repo="https://github.com/robertharris95/Project-2"
                 />
             </div>
-            <div className = "col s6">
+            <div className = "col s6 m4 l4">
                 <AppCard img={process.env.PUBLIC_URL + "/images/WeatherDash.png"}
                     appName="Weather Dashboard"
                     link="https://ghostsag.github.io/WeatherDashboard/"

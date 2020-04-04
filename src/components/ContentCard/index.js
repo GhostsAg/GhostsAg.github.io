@@ -7,9 +7,10 @@ import Portfolio from "../Portfolio";
 import Contact from "../Contact";
 import "./style.css";
 
+
 function ContentCard() {
     return (
-        <ElemContainer>
+        <ElemContainer addClass="elemContainer col l6">
             <Router>
                 <NavTab />
                 <Route path={`/about`} component={About} />

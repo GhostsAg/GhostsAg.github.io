@@ -4,7 +4,7 @@ import "./style.css";
 
 function UserCard(props) {
     return (
-        <ElemContainer>
+        <ElemContainer addClass="elemContainer col l4">
             <img className="pic" src={props.img} alt="UserId"></img>
             <h3>{props.name}</h3>
             <p>{props.jobTitle}</p>
