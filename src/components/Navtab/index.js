@@ -8,8 +8,8 @@ function NavTabs() {
     return (
         <ul className="row">
             <li className = "nav-item col s4">
-                <Link to = "/bio" className = { location.pathname === "/bio" ? "nav-link active" : "nav-link" } >
-                    Bio
+                <Link to = "/about" className = { location.pathname === "/about" ? "nav-link active" : "nav-link" } >
+                    About
                 </Link>
             </li>
             <li className = "nav-item col s4">
@@ -19,7 +19,7 @@ function NavTabs() {
             </li>
             <li className = "nav-item col s4">
                 <Link to = "/contact" className = { location.pathname === "/portfolio" ? "nav-link active" : "nav-link" } >
-                    Contact
+                    Leave a Message
                 </Link>
             </li>
         </ul>
