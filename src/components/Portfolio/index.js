@@ -1,11 +1,14 @@
 import React from "react";
 import AppCard from "../AppCard";
+import empPic from "../../Images/Employee-Database.png";
+import contractPic from "../../Images/Contract-Bay.png";
+import weatherPic from "../../images/WeatherDash.png";
 
 function Portfolio() {
     return (
         <div className = "row">
             <div className = "col s6 m4 l4">
-                <AppCard img={process.env.PUBLIC_URL + "/images/Employee-Database.png"} 
+                <AppCard img={empPic} 
                     appName="Employee Databse"
                     link="https://github.com/GhostsAg/EmployeeTracker"
                     info="Command-line application that allows you to input and manipulate employee data by departments, roles, and salary."
@@ -13,7 +16,7 @@ function Portfolio() {
                 />
             </div>
             <div className = "col s6 m4 l4">
-                <AppCard img={process.env.PUBLIC_URL + "/images/Contract-Bay.png"}
+                <AppCard img={contractPic}
                     appName="Contract Bay"
                     link="https://polar-island-40995.herokuapp.com/"
                     info="Contract accessibility web application to close the gap between supplier and manufacturer."
@@ -21,7 +24,7 @@ function Portfolio() {
                 />
             </div>
             <div className = "col s6 m4 l4">
-                <AppCard img={process.env.PUBLIC_URL + "/images/WeatherDash.png"}
+                <AppCard img={weatherPic}
                     appName="Weather Dashboard"
                     link="https://ghostsag.github.io/WeatherDashboard/"
                     info="Weather forecast web application. Get information about the upcoming 5-days of any city."
