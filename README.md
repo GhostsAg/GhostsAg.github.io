@@ -1,2 +1,2 @@
-# GhostsAg.github.io
-Personal webpage.
+# info
+React static website with information about myself.

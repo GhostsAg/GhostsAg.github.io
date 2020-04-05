@@ -17,3 +17,8 @@ div.card-content {
 div.card-reveal {
     padding: 10px !important;
 }
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+}
