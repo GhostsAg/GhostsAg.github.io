@@ -1,6 +1,5 @@
 import React from "react";
 import AppCard from "../AppCard";
-import "./style.css";
 
 function Portfolio() {
     return (
