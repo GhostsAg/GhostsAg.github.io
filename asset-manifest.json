@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d2eaa06.chunk.css",
-    "main.js": "/static/js/main.4826c412.chunk.js",
-    "main.js.map": "/static/js/main.4826c412.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eb07c764.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eb07c764.js.map",
-    "static/js/2.4eaf028d.chunk.js": "/static/js/2.4eaf028d.chunk.js",
-    "static/js/2.4eaf028d.chunk.js.map": "/static/js/2.4eaf028d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.95d1fa786166e4341b3c29ca12e42520.js": "/precache-manifest.95d1fa786166e4341b3c29ca12e42520.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6d2eaa06.chunk.css.map": "/static/css/main.6d2eaa06.chunk.css.map",
-    "static/js/2.4eaf028d.chunk.js.LICENSE.txt": "/static/js/2.4eaf028d.chunk.js.LICENSE.txt"
+    "main.css": "/info/static/css/main.f4fdb93e.chunk.css",
+    "main.js": "/info/static/js/main.f398b601.chunk.js",
+    "main.js.map": "/info/static/js/main.f398b601.chunk.js.map",
+    "runtime-main.js": "/info/static/js/runtime-main.2be6e60c.js",
+    "runtime-main.js.map": "/info/static/js/runtime-main.2be6e60c.js.map",
+    "static/js/2.e252658a.chunk.js": "/info/static/js/2.e252658a.chunk.js",
+    "static/js/2.e252658a.chunk.js.map": "/info/static/js/2.e252658a.chunk.js.map",
+    "index.html": "/info/index.html",
+    "precache-manifest.47ea74d707a32e28c354527ae56da1df.js": "/info/precache-manifest.47ea74d707a32e28c354527ae56da1df.js",
+    "service-worker.js": "/info/service-worker.js",
+    "static/css/main.f4fdb93e.chunk.css.map": "/info/static/css/main.f4fdb93e.chunk.css.map",
+    "static/js/2.e252658a.chunk.js.LICENSE.txt": "/info/static/js/2.e252658a.chunk.js.LICENSE.txt",
+    "static/media/AG-logo.png": "/info/static/media/AG-logo.4677e1f0.png",
+    "static/media/Contract-Bay.png": "/info/static/media/Contract-Bay.42d969ac.png",
+    "static/media/Employee-Database.png": "/info/static/media/Employee-Database.3fbc9ccf.png",
+    "static/media/Profile-pic.jpeg": "/info/static/media/Profile-pic.c857be97.jpeg",
+    "static/media/WeatherDash.png": "/info/static/media/WeatherDash.13a49544.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb07c764.js",
-    "static/js/2.4eaf028d.chunk.js",
-    "static/css/main.6d2eaa06.chunk.css",
-    "static/js/main.4826c412.chunk.js"
+    "static/js/runtime-main.2be6e60c.js",
+    "static/js/2.e252658a.chunk.js",
+    "static/css/main.f4fdb93e.chunk.css",
+    "static/js/main.f398b601.chunk.js"
   ]
 }
