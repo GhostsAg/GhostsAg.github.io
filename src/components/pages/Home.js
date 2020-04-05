@@ -15,6 +15,7 @@ function Home() {
                     name = {"Andres Agustin Ledesma"}
                     jobTitle = {"Full-Stack Web Developer"}
                     github = {"https://github.com/GhostsAg"} 
+                    linkedIn = "https://www.linkedin.com/in/andres-ledesma-9388b0197/"
                 />
                 <ContentCard />
             </Wrapper>

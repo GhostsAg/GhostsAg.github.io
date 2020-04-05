@@ -2,7 +2,7 @@ import React from "react";
 import AppCard from "../AppCard";
 import empPic from "../../Images/Employee-Database.png";
 import contractPic from "../../Images/Contract-Bay.png";
-import weatherPic from "../../images/WeatherDash.png";
+import weatherPic from "../../Images/WeatherDash.png";
 
 function Portfolio() {
     return (
@@ -11,7 +11,7 @@ function Portfolio() {
                 <AppCard img={empPic} 
                     appName="Employee Databse"
                     link="https://github.com/GhostsAg/EmployeeTracker"
-                    info="Command-line application that allows you to input and manipulate employee data by departments, roles, and salary."
+                    info="Command-line database management application. Manipulate employee data by departments, roles, and salary."
                     repo="https://github.com/GhostsAg/EmployeeTracker"
                 />
             </div>
@@ -19,7 +19,7 @@ function Portfolio() {
                 <AppCard img={contractPic}
                     appName="Contract Bay"
                     link="https://polar-island-40995.herokuapp.com/"
-                    info="Contract accessibility web application to close the gap between supplier and manufacturer."
+                    info="Contract accessibility web application. Close the gap between supplier and manufacturer."
                     repo="https://github.com/robertharris95/Project-2"
                 />
             </div>
@@ -27,7 +27,7 @@ function Portfolio() {
                 <AppCard img={weatherPic}
                     appName="Weather Dashboard"
                     link="https://ghostsag.github.io/WeatherDashboard/"
-                    info="Weather forecast web application. Get information about the upcoming 5-days of any city."
+                    info="Weather forecast web application. Get information about the upcoming 5-day forecast of any city."
                     repo="https://github.com/GhostsAg/WeatherDashboard"
                 />
             </div>

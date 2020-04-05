@@ -11,7 +11,6 @@ function About() {
                     <li>Computer Vision</li>
                     <li>Machine Learning</li>
                     <li>Data Manipulation</li>
-                    <li>Languages I am familiar with:</li>
                 </ul>    
                 <ul id="list">
                     Programming Languages:
