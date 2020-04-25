@@ -19,7 +19,7 @@ function NavTabs() {
             </li>
             <li className = "nav-item col s4">
                 <Link to = "/contact" className = { location.pathname === "/portfolio" ? "nav-link active" : "nav-link" } >
-                    Message
+                    Resume
                 </Link>
             </li>
         </ul>

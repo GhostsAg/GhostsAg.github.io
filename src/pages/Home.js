@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "../Header";
-import UserCard from "../UserCard";
-import Wrapper from "../Wrapper";
-import ContentCard from "../ContentCard";
-import Footer from "../Footer";
-import pic from "../../Images/Profile-pic.jpeg";
+import Header from "../components/Header";
+import UserCard from "../components/UserCard";
+import Wrapper from "../components/Wrapper";
+import ContentCard from "../components/ContentCard";
+import Footer from "../components/Footer";
+import pic from "../Images/Profile-pic.jpeg";
 
 function Home() {
     return (

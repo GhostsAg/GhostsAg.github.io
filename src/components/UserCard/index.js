@@ -9,9 +9,9 @@ function UserCard(props) {
             <h3>{props.name}</h3>
             <p>{props.jobTitle}</p>
             <br></br>
-            <a href={props.github} target="_blank">Github </a>
+            <a href={props.github} target="_blank" rel="noopener noreferrer">Github </a>
              | 
-            <a href={props.linkedIn} target="_blank"> LinkedIn</a>
+            <a href={props.linkedIn} target="_blank" rel="noopener noreferrer"> LinkedIn</a>
         </ElemContainer>
     );
 }

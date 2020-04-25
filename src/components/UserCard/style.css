@@ -23,5 +23,6 @@ p {
 a {
     font-family: 'Volkhov', serif;
     color: black;
+    text-decoration: underline;
 }
 
